@@ -1,0 +1,88 @@
+{
+  "questions": [
+    "Question 1: If the objects focus on the problem domain, then we are concerned with..",
+    "Question 2: When can 'White-Box' testing be started?",
+    "Question 3: By whom is unit testing done?",
+    "Question 4: In which category can white-box testing be classified?",
+    "Question 5: Infrastructure software is covered under which of the following category?",
+    "Question 6: What does the RAD software process stand for?",
+    "Question 7: Identify the simplest model of SDLC.",
+    "Question 8: Choose the correct option among the following. The software consists of?",
+    "Question 9: Which of the following is the most important feature of the spiral model?",
+    "Question 10: Total phases of the RAD software model is?"
+  ],
+  "answers": [
+    1,
+    3,
+    3,
+    2,
+    2,
+    1,
+    4,
+    1,
+    3,
+    2
+  ],
+  "options": [
+    [
+      "Object-oriented analysis",
+      "Object-oriented design",
+      "Object-oriented analysis and design",
+      "None"
+    ],
+    [
+      "After SRS creation",
+      "After installation",
+      "After Programming",
+      "After designing"
+    ],
+    [
+      "Users",
+      "Customers",
+      "Developers",
+      "None"
+    ],
+    [
+      "Design based testing",
+      "Structural testing",
+      "Error guessing technique",
+      "None"
+    ],
+    [
+      "Customized products",
+      "Generic Products",
+      "Generic and customized products",
+      "None"
+    ],
+    [
+      "Rapid Application Development",
+      "Recent Application Development",
+      "Relative Application Development",
+      "Rapid Application Design"
+    ],
+    [
+      "Agile",
+      "RAD",
+      "Waterfall",
+      "Spiral"
+    ],
+    [
+      "Program+documentation operating procedures",
+      "Program+hardware manuals",
+      "Instruction+hardware manuals",
+      "Set of programs"
+    ],
+    [
+      "Efficiency Management",
+      "Time Management",
+      "Risk Management",
+      "Quality Management"
+    ],
+    [
+      "6",
+      "5",
+      "3",
+      "2"
+    ]
+  ]
+}
