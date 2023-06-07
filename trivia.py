@@ -34,10 +34,14 @@ class Quiz:
     def checkAnswer(self, questionNumber):
         if self.opt_selected.get() == answers[questionNumber]:
             return True
+        elif self.opt_selected.get() != answers[questionNumber]:
+            return False
 
     def next(self):
         if self.checkAnswer(self.questionNumber):
             self.answersCorrect += 1
+        if not self.checkAnswer(self.questionNumber):
+            mbox.showinfo("Incorrect!", f"Correct selection would've been option: {answers[self.questionNumber]}")
         self.questionNumber += 1
         if self.questionNumber == self.sizeOfData:
             self.showResults()
